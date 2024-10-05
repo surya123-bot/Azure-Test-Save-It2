@@ -11,7 +11,7 @@ export default function Home() {
             Save It!
             <br />
             <span className="text-[1.5rem] md:text-[2rem] lg:text-[3rem]">
-              Created By: &quot;Harsh Patel&quot;
+              Created By: &quot;Surya Prakash Chatuvedula&quot;
             </span>
           </code>
           <Separator />
